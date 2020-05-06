@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="giorgi-khachapuridze-weather:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>giorgi-khachapuridze-weather</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="crudAPI.war">
+      <element id="artifact" artifact-name="giorgi-khachapuridze-weather:war exploded" />
+    </root>
+  </artifact>
+</component>

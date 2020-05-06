@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="giorgi-khachapuridze-WeatherBot:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>giorgi-khachapuridze-WeatherBot</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="giorgi-khachapuridze-WeatherBot-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="giorgi-khachapuridze-WeatherBot:war exploded" />
+    </root>
+  </artifact>
+</component>
